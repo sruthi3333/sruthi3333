@@ -1,0 +1,31 @@
+Just an Intro before Linux commands.
+
+"Unix" is the grand father of all the modern Operating Systems.
+
+There are basically two Types of Operating Systems.
+1) Microsoft Windows
+2) Unix - MAC OS X, Linux, Android, Chrome OS, PS4 OS.
+
+Linux based OS means Linux Distributions.
+They are:
+1) Debian GNU
+2) Ubuntu Linux
+3) Fedora
+4) Raspberry Pi OS
+5) Slackware
+6) Red Hat Enterprise Linux
+
+Linux kernel is a part of OS which interacts between hardware and software.
+
+
+Terminal ---> Shell --->  OS
+
+Terminal is a program that runs shell.
+In Early days terminal is a physical device, now it is upgraded to software terminal.
+
+Shell takes commands from terminal and gives them to OS to perform.
+
+
+
+
+
